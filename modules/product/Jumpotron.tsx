@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Jumpotron() {
   return (
-    <div className="bg-[#E6F1FF] py-8">
+    <div className="bg-brand-50 py-8">
       <div className="container mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-center lg:justify-between gap-4 lg:gap-4">
           {/* Left side - Icon and Text */}

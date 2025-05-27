@@ -24,7 +24,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${epilogue.className} antialiased`}>
         <Header />
-        <main className="bg-gray-100">{children}</main>
+        <main>{children}</main>
         <Footer />
         <ScrollToTop />
       </body>

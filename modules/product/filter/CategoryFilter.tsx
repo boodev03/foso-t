@@ -92,7 +92,7 @@ export default function CategoryFilter() {
   };
 
   return (
-    <div className="w-full lg:w-[315px] bg-white rounded-lg">
+    <div>
       <div className="p-3">
         <button
           onClick={() => setExpanded(!expanded)}

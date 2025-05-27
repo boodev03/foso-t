@@ -5,7 +5,7 @@ import ProductListSection from "./ProductListSection";
 
 export default function Product() {
   return (
-    <section className="space-y-8">
+    <section className="space-y-8 bg-gray-100">
       <Banner />
       <ProductListSection />
       <Featured />
