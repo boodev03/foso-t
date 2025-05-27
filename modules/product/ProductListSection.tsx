@@ -1,4 +1,4 @@
-import Filter from "./Filter";
+import Filter from "./filter/Filter";
 import ProductList from "./ProductList";
 
 export default function ProductListSection() {

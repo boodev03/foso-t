@@ -1,4 +1,4 @@
-import Product from "@/modules/Product";
+import Product from "@/modules/product/Product";
 import { Suspense } from "react";
 
 export default function Home() {
